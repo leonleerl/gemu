@@ -1,11 +1,10 @@
-import ShiritoriGame from "@/pages/shiritori";
-
+import KanjiGame from "@/pages/kanji";
 
 
 export default function Home() {
   return (
     <>
-    <ShiritoriGame></ShiritoriGame>
+    <KanjiGame></KanjiGame>
     </>
   );
 }
